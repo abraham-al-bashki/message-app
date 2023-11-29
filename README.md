@@ -22,7 +22,7 @@ npm run dev
 
 The project can be configured to your domain and clientId through Auth0.
 
-```json
+json
 {
   "domain": "{YOUR AUTH0 DOMAIN}",
   "clientId": "{YOUR AUTH0 CLIENT ID}",

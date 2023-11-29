@@ -38,7 +38,5 @@ json
 
 If your policy to running script is restricted when trying to use Nodemon.
 ```
-
-```
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
